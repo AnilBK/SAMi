@@ -7,7 +7,7 @@ Created For CSIT 7th Semester(Final Year Project).
 # A Project By:
 - Anil BK
 - [Mira Pandey](https://github.com/Mira-7077)
-- Sumina KC
+- [Sumina KC](https://github.com/111sumi)
 
 ## File Structure:
 - Train: [SamiModel.py](SamiModel.py)
