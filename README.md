@@ -1,6 +1,6 @@
 # SAMi:
 
-Smart Voice Assitant for Nepali Language.
+Smart Voice Assistant for Nepali Language.
 
 Created For CSIT 7th Semester(Final Year Project).
 
